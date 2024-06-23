@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-17T22:41:12 IST" name="Suite" finished-at="2024-06-17T22:41:24 IST" duration-ms="12111">
+    <groups>
+    </groups>
+    <test started-at="2024-06-17T22:41:12 IST" name="Test" finished-at="2024-06-17T22:41:24 IST" duration-ms="12111">
+      <class name="scenario2.Tests.LoginTest">
+        <test-method is-config="true" signature="setUpBrowser()[pri:0, instance:scenario2.Tests.LoginTest@350aac89]" started-at="2024-06-17T22:40:52 IST" name="setUpBrowser" finished-at="2024-06-17T22:41:12 IST" duration-ms="20369" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBrowser -->
+        <test-method signature="loginTest()[pri:0, instance:scenario2.Tests.LoginTest@350aac89]" started-at="2024-06-17T22:41:12 IST" name="loginTest" finished-at="2024-06-17T22:41:16 IST" duration-ms="4051" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- scenario2.Tests.LoginTest -->
+      <class name="scenario2.Tests.AdminTest">
+        <test-method signature="adminTest()[pri:0, instance:scenario2.Tests.AdminTest@4b29d1d2]" started-at="2024-06-17T22:41:16 IST" name="adminTest" finished-at="2024-06-17T22:41:24 IST" duration-ms="7986" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adminTest -->
+      </class> <!-- scenario2.Tests.AdminTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
