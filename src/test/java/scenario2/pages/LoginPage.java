@@ -45,7 +45,7 @@ public class LoginPage
 		else {
 			System.out.println("other user is working");
 		}
-		System.out.println("It worked");
+		
 	}
 	
 }
