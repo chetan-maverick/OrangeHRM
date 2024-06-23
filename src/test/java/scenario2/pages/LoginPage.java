@@ -37,4 +37,14 @@ public class LoginPage
         loginButton.click();
 	}
 
+	public void activeUser(String user)
+	{
+		if(user.equalsIgnoreCase("vinay")) {
+			System.out.println("Vinay has started the work");
+		}
+		else {
+			System.out.println("other user is working");
+		}
+	}
+	
 }
